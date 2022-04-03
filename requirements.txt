@@ -1,2 +1,2 @@
-cutlet==0.1.19
-rich==12.0.1
+cutlet
+rich

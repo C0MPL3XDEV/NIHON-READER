@@ -27,3 +27,5 @@ python3 Nihon_Reader-Main.py
 Copyright © 2021 by <a href="https:/github.com/C0MPL3XDEV/">@C0MPL3XDEV</a>
 
 This project was inspired by the project: <a href="https://github.com/Enn3Developer/japanese_read">Japanese_Read</a> Developed by: <a href="https://github.com/Enn3Developer">@Enn3Developer</a>
+  
+Every texts are taken from: https://crunchynihongo.com/

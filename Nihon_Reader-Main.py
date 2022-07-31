@@ -1,8 +1,12 @@
 import cutlet
 import random
 import os
+from sys import platform
 from rich.console import Console
-os.system("cls")
+if platform == "linux":
+    os.system("clear")
+else:
+    os.system('cls')
 console = Console()
 
 def title():

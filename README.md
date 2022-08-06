@@ -1,9 +1,10 @@
-<h1 align="center">日本-READER</h1>
+<h1 align="center">NIHON-READER</h1>
 
 A tool created to practice reading the Japanese characters Hiragana and Katana
 <p align="center">
-<img src="https://raw.githubusercontent.com/C0MPL3XDEV/NIHON-READER/main/images/%E6%97%A5%E6%9C%AC%20Reader.png"width="1900"height="680">
+<img src="https://github.com/C0MPL3XDEV/NIHON-READER/blob/main/images/wp3469892.png"
 <p align="center">
+<br></br>
 <a href="https://discord.gg/Vy8C724XWV"><img src="https://discordapp.com/api/guilds/437716353584070677/widget.png?style=shield" alt="Discord Server"></a>
 <br>
 
